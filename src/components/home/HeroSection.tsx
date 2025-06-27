@@ -22,7 +22,7 @@ const HeroSection = () => {
         </p>
         <Link
           href="#"
-          className="inline-block bg-accent text-beige-light px-10 py-4 rounded-full font-semibold shadow-japandi hover:bg-beige transition"
+          className="inline-block bg-accent text-beige-light px-10 py-4 rounded-full font-semibold shadow-md hover:bg-beige transition"
         >
           View Collection
         </Link>

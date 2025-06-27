@@ -25,9 +25,6 @@ module.exports = {
         xl: "1.25rem",
         "2xl": "1.5rem",
       },
-      boxShadow: {
-        japandi: "0 4px 24px 0 rgba(191, 169, 128, 0.08)",
-      },
     },
   },
   plugins: [],

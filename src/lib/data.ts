@@ -57,3 +57,5 @@ export const recommendedProducts: Product[] = [
     price: "£78.00",
   },
 ];
+
+export const productsAll: Product[] = [...newArrivals, ...recommendedProducts];

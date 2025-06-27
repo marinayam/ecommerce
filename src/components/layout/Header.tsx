@@ -16,7 +16,7 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="w-full flex items-center justify-between px-4 md:px-8 py-5 border-b bg-beige-light sticky top-0 z-10 shadow-sm">
+    <header className="w-full flex items-center justify-between px-4 md:px-8 py-5 border-b bg-[#E8E3D9] sticky top-0 z-50 shadow-sm">
       <div className="flex flex-1 items-center md:hidden">
         <button
           className="flex items-center text-gray-dark mr-2"

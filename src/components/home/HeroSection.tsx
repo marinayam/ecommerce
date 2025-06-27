@@ -12,7 +12,7 @@ const HeroSection = () => {
         style={{ objectFit: "cover", zIndex: 0, opacity: 0.13 }}
         className="absolute inset-0 rounded-b-2xl"
       />
-      <div className="relative z-10 max-w-2xl mx-auto">
+      <div className="max-w-2xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight text-accent italic drop-shadow">
           Wabi of Living
         </h1>
